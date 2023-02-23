@@ -1,0 +1,70 @@
+﻿  stdafx.cpp
+  gameNode.cpp
+  image.cpp
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(115,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(765,41): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(766,43): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(803,41): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(804,43): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(851,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(859,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(860,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(879,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(878,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(902,11): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(910,42): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(911,43): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(934,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\image.cpp(933,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  iniData.cpp
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\iniData.cpp(38,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\iniData.cpp(32,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\iniData.cpp(35,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\iniData.cpp(50,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\iniData.cpp(53,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\iniData.cpp(68,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\iniData.cpp(70,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  intro.cpp
+  keyManager.cpp
+  loading.cpp
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\loading.cpp(44,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\loading.cpp(45,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\loading.cpp(80,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\loading.cpp(81,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\loading.cpp(170,20): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\loading.cpp(195,64): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\loading.cpp(195,57): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\loading.cpp(207,69): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\loading.cpp(207,62): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\loading.cpp(220,54): warning C4244: '인수': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\loading.cpp(220,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mainGame.cpp
+  playerData.cpp
+  progressBar.cpp
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\progressBar.cpp(10,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\progressBar.cpp(11,12): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\progressBar.cpp(25,75): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\progressBar.cpp(25,72): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\progressBar.cpp(26,72): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\progressBar.cpp(26,69): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\progressBar.cpp(21,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\progressBar.cpp(22,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\progressBar.cpp(46,9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  randomFunction.cpp
+  sceneManager.cpp
+  soundManager.cpp
+  txtData.cpp
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\txtData.cpp(21,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\txtData.cpp(37,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\txtData.cpp(41,13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\txtData.cpp(40,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\txtData.cpp(43,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\txtData.cpp(74,10): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\txtData.cpp(76,26): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  util.cpp
+  winMain.cpp
+  코드를 생성하고 있습니다...
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\txtData.cpp(48): warning C4172: 지역 변수 또는 임시: str의 주소를 반환하고 있습니다.
+C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\iniData.cpp(59): warning C4172: 지역 변수 또는 임시: data의 주소를 반환하고 있습니다.
+  GameFramework2D.vcxproj -> C:\works\C\포폴-002\위자드 (팀포폴)\WindowAPI\Debug\GameFramework2D.exe
